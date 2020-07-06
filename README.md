@@ -12,3 +12,9 @@
 ## Demo
 
 You can visit the demo [here](https://simple-ui-002.vercel.app/)
+
+## Used tech
+
+1. React hook (useState, useEffect)
+2. axios library to get open api data
+3. deploy to vercel
