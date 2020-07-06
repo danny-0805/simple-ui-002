@@ -17,4 +17,5 @@ You can visit the demo [here](https://simple-ui-002.vercel.app/)
 
 1. React hook (useState, useEffect)
 2. axios library to get open api data
-3. deploy to vercel
+3. Mobile responsive UI
+4. deploy to vercel
